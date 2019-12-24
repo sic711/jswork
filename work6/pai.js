@@ -13,7 +13,7 @@ function factorial(n){
         sum *= i
     }
     return sum
-}
+} 
 
 function oddFactorial(n){
     let sum = 1
